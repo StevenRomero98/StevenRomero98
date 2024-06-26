@@ -1,4 +1,4 @@
-<center>
+<p align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=StevenRomero98&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
 
@@ -13,4 +13,4 @@
 [![Microsoft Office Specialist: Word 2013](https://images.credly.com/size/110x110/images/16bc9e00-43a7-421c-a775-a990fbc590ac/MOS_Word.png)](http://www.credly.com/badges/13914680-7100-4d4f-b2ab-d52876de062c "Microsoft Office Specialist: Word 2013")
 <!--END_SECTION:badges-->
 
-</center>
+</p>
