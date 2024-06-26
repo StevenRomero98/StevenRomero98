@@ -14,4 +14,7 @@
 [![Microsoft Office Specialist: Word 2013](https://images.credly.com/size/110x110/images/16bc9e00-43a7-421c-a775-a990fbc590ac/MOS_Word.png)](http://www.credly.com/badges/13914680-7100-4d4f-b2ab-d52876de062c "Microsoft Office Specialist: Word 2013")
 <!--END_SECTION:badges-->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenRomero98&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=StevenRomero98&icon=0&color=0)](https://visitcount.itsvg.in)
