@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Microsoft Dynamics 365 Technical Consultant</h3>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StevenRomero98&theme=rising-sun&hide_border=true" alt="GitHub Streak" /></a>
 </p>
