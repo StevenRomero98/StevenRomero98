@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=StevenRomero98&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
+
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Power Platform Developer Associate](https://images.credly.com/size/110x110/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png)](http://www.credly.com/badges/edcf1aa8-0410-41c1-a6d7-0af20f359cce "Microsoft Certified: Power Platform Developer Associate")
 [![Microsoft Certified: Power Platform App Maker Associate](https://images.credly.com/size/110x110/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png)](http://www.credly.com/badges/1e7a9317-1b65-4dd2-8231-0e8cc0840241 "Microsoft Certified: Power Platform App Maker Associate")
