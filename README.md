@@ -1,7 +1,8 @@
+<style>
 div {
     text-align: center;
 }
-
+</style>
 <div>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=StevenRomero98&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
