@@ -1,3 +1,4 @@
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=StevenRomero98&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:badges-->
@@ -9,3 +10,4 @@
 [![MTA: Software Development Fundamentals - Certified 2018](https://images.credly.com/size/110x110/images/ae9dd68f-eccc-4a5a-8932-787125ac1f8a/MTA-Software-Development-Fundamentals-2018.png)](http://www.credly.com/badges/b153b2d7-42d3-46ea-97a2-2f4ccc7167de "MTA: Software Development Fundamentals - Certified 2018")
 [![Microsoft Office Specialist: Word 2013](https://images.credly.com/size/110x110/images/16bc9e00-43a7-421c-a775-a990fbc590ac/MOS_Word.png)](http://www.credly.com/badges/13914680-7100-4d4f-b2ab-d52876de062c "Microsoft Office Specialist: Word 2013")
 <!--END_SECTION:badges-->
+</p>
