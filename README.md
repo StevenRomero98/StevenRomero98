@@ -1,6 +1,6 @@
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StevenRomero98&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StevenRomero98&theme=rising-sun&hide_border=true" alt="GitHub Streak" /></a>
+</p>
   
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Power Platform Developer Associate](https://images.credly.com/size/110x110/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png)](http://www.credly.com/badges/edcf1aa8-0410-41c1-a6d7-0af20f359cce "Microsoft Certified: Power Platform Developer Associate")
