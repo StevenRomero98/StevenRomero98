@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven!</h1>
 <h3 align="center">Microsoft Dynamics 365 Technical Consultant</h3>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=rising-sun&hide_border=true" alt="GitHub Streak" /></a><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StevenRomero98&size_weight=0&count_weight=1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2&" height="150" alt="languages graph"  />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StevenRomero98&theme=tokyonight-duo" alt="GitHub Streak" /></a>
   
 <!--START_SECTION:badges-->
 [<img src="https://images.credly.com/size/80x80/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" width="80" height="80">](https://www.credly.com/badges/2260dd17-fe31-4241-802c-2ff2198ec781)
