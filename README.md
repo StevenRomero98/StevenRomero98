@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven!</h1>
 <h3 align="center">Microsoft Dynamics 365 Technical Consultant</h3>
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=StevenRomero98&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-  
+</p>
+
 <!--START_SECTION:badges-->
 [<img src="https://images.credly.com/size/80x80/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" width="80" height="80">](https://www.credly.com/badges/2260dd17-fe31-4241-802c-2ff2198ec781)
 [<img src="https://images.credly.com/size/80x80/images/1dc3a4b2-95e0-4a24-9030-1c1bf7274f02/Cloud_Skills_Champion_Badge.png" alt="MSUS Cloud Skills Challenge Champion" width="80" height="80">](https://www.credly.com/badges/3ad21852-6c06-4f51-aa5c-8fb6a9ad4589)
