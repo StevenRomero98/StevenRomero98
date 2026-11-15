@@ -37,15 +37,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" colspan="2">
       <h3>Cloud &amp; AI Challenges</h3>
       <a href="https://www.credly.com/badges/3ad21852-6c06-4f51-aa5c-8fb6a9ad4589"><img src="https://images.credly.com/size/80x80/images/1dc3a4b2-95e0-4a24-9030-1c1bf7274f02/Cloud_Skills_Champion_Badge.png" alt="MSUS Cloud Skills Challenge Champion" title="MSUS Cloud Skills Challenge Champion" width="96" height="96"></a>
       &nbsp;&nbsp;
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/StevenRomero-4254/BG6Y6SCD?sharingId=6F3B4C2DB1D08EA1"><img src="https://images.credly.com/size/80x80/images/f9080444-5607-4eea-8be3-54dc62242cd5/ai-skills-challenge-april-2024_cached_image_20261114-33-3to332.png" alt="AI Skills Challenge April 2024" title="AI Skills Challenge April 2024" width="96" height="96"></a>
-    </td>
-    <td align="center" valign="top">
-      <h3>Microsoft Office</h3>
-      <a href="https://www.credly.com/badges/13914680-7100-4d4f-b2ab-d52876de062c"><img src="https://images.credly.com/size/80x80/images/16bc9e00-43a7-421c-a775-a990fbc590ac/MOS_Word.png" alt="Microsoft Office Specialist: Word 2013" title="Microsoft Office Specialist: Word 2013" width="96" height="96"></a>
     </td>
   </tr>
 </table>
