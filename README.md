@@ -47,5 +47,5 @@
 <!--END_SECTION:badges-->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenRomero98&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+[![StevenRomero98's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StevenRomero98&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
