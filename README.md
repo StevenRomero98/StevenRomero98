@@ -14,6 +14,8 @@
 [<img src="https://images.credly.com/size/80x80/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" alt="Microsoft Certified: Power Platform Developer Associate" width="80" height="80">](https://www.credly.com/badges/edcf1aa8-0410-41c1-a6d7-0af20f359cce)
 [<img src="https://images.credly.com/size/80x80/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png" alt="Microsoft Certified: Power Platform App Maker Associate" width="80" height="80">](https://www.credly.com/badges/1e7a9317-1b65-4dd2-8231-0e8cc0840241)
 [<img src="https://images.credly.com/size/80x80/images/e9253c9f-8653-4f13-a583-49b78daca664/converted20261114-34-eis2f.png" alt="GitHub Copilot" width="80" height="80">](https://www.credly.com/users/steven-romero.b1daded0/badges)
+[<img src="https://images.credly.com/size/80x80/images/f7e5502d-26a2-45a6-b538-0c4fad7ce04d/converted20261115-33-u8bnmg.png" alt="Microsoft Applied Skills: Prepare security and compliance to support Microsoft 365 Copilot" width="80" height="80">](https://www.credly.com/users/steven-romero.b1daded0/badges)
+[<img src="https://images.credly.com/size/80x80/images/7f1e3dfc-d5ac-411c-af53-870f435b533b/converted20261115-34-gmhf3e.png" alt="Microsoft Applied Skills: Create agents in Microsoft Copilot Studio" width="80" height="80">](https://www.credly.com/users/steven-romero.b1daded0/badges)
 [<img src="https://images.credly.com/size/80x80/images/f9080444-5607-4eea-8be3-54dc62242cd5/ai-skills-challenge-april-2024_cached_image_20261114-33-3to332.png" alt="AI Skills Challenge April 2024" width="80" height="80">](https://www.credly.com/users/steven-romero.b1daded0/badges)
 <!--END_SECTION:badges-->
 
